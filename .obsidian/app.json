@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "00box",
-  "attachmentFolderPath": "00box/photo"
+  "attachmentFolderPath": "00box/photo",
+  "newLinkFormat": "absolute"
 }
