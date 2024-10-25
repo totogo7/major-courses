@@ -3,5 +3,6 @@
   "newFileFolderPath": "00box",
   "attachmentFolderPath": "00box/photo",
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
 }

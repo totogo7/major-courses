@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/实验/实验.md",
+                "file": "java/实验三题目&代码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实验"
+              "title": "实验三题目&代码"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/实验/实验.md",
+                "file": "java/实验二.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "实验 的反向链接列表"
+              "title": "实验二 的反向链接列表"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/实验/实验.md"
+                "file": "java/实验三题目&代码.md"
               },
               "icon": "lucide-list",
-              "title": "实验 的大纲"
+              "title": "实验三题目&代码 的大纲"
             }
           }
         ],
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,31 +159,45 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "share-to-notionnext:分享到 NotionNext": false
     }
   },
   "active": "189832886e44386b",
   "lastOpenFiles": [
-    "00box/photo/{8C2E7409-C239-49AC-8C39-33AB98C69B5C}.png",
-    "00box/photo/{A2F26FA8-0979-47FA-A03B-A6840987B3B6}.png",
-    "00box/photo/{539E4795-56DD-4309-9834-094D674EAEC8}.png",
-    "00box/photo/{0D99D9FF-78AE-4C23-92C6-5FE0A8F23CFE}.png",
-    "数据库/实验/实验.md",
-    "00box/photo/{81F99A78-9F79-43D3-A807-1489C31CECD7}.png",
-    "00box/photo/{042BEA41-C1E6-4D2F-A8FD-D4DF495CD4AA}.png",
-    "00box/photo/{000DCE9B-6209-49C8-9AF1-B81A7F42D5C3}.png",
-    "实验1.pdf",
-    "00box/photo/{BF2C2249-EDB4-4CAB-922E-1A0C4190DF24}.png",
-    "00box/photo/{E03C5914-17D5-4BC2-89C8-CFF88C1041C7}.png",
-    "00box/photo/{CD21CA47-9013-41B6-9B67-0CA481614E91}.png",
-    "00box/photo/{E475417D-86F6-4AA5-B7A3-EDFDC744F2F0}.png",
-    "java/实验一/实验一.md",
-    "计算机网络/笔记/第三章：传输层/传输层.md",
-    "java/实验二/实验二.md",
-    "新建文件夹",
-    "Woshinidie1377.pub",
-    "Woshinidie1377",
+    "java/实验三详解&知识点.md",
+    "java/实验三题目&代码.md",
+    "java/实验二.md",
+    "java/实验一.md",
+    "数据库/课程设计.md",
+    "数据库/实验/实验一.md",
+    "数据库/实验/实验二.md",
+    "00box/photo/实验二.assets/image-20241014215127797.png",
+    "00box/photo/实验二.assets/image-20241014215529674.png",
+    "00box/photo/实验二.assets/image-20241014214405160.png",
+    "00box/photo/实验二.assets/image-20241014213942371.png",
+    "00box/photo/实验二.assets/image-20241014213159017.png",
+    "00box/photo/实验一.assets/image-20241012190839393.png",
+    "00box/photo/实验一.assets/image-20241012194828270.png",
+    "00box/photo/实验一.assets/image-20241012185527556.png",
+    "00box/photo/实验一.assets/image-20241012185144748.png",
+    "00box/photo/实验一.assets/image-20241012184523956.png",
+    "00box/photo/实验二.assets",
+    "00box/photo/实验一.assets",
     "00box/photo",
-    "00box"
+    "00box/实验.assets/photo/实验二.assets",
+    "00box/实验.assets/photo/实验一.assets",
+    "00box/实验.assets/photo",
+    "数据库/实验",
+    "计算机网络/实验/实验一.md",
+    "操作系统/实验/实验二.md",
+    "操作系统/笔记",
+    "操作系统/未命名.md",
+    "操作系统/实验/实验一.md",
+    "操作系统/实验",
+    "数据通信与计算机网络/未命名.md",
+    "数据通信与计算机网络/数据传输技术.md",
+    "实验1.pdf",
+    "计算机网络/笔记/第三章：传输层/传输层.md"
   ]
 }
